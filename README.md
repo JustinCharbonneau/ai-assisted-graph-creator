@@ -4,7 +4,7 @@ A web application that generates network topology diagrams based on user input, 
 
 ## Demo
 
-![Demo GIF](./app_demo.gif)  
+![Demo GIF](./app_demo_v1.gif)  
 *Example of using the Network Topology Generator.*
 
 ## Features
