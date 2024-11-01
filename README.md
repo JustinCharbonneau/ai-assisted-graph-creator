@@ -4,7 +4,7 @@ A web application that generates network topology diagrams based on user input, 
 
 ## Demo
 
-![Demo GIF](./demoUI.gif)  
+![Demo GIF](./app_demo.gif)  
 *Example of using the Network Topology Generator.*
 
 ## Features
@@ -18,6 +18,7 @@ A web application that generates network topology diagrams based on user input, 
 - **Node.js** (v14 or higher)
 - **npm** (comes with Node.js) or **yarn**
 - **OpenAI API Key**: Required to use GPT API (sign up at [OpenAI](https://openai.com/) to get an API key).
+- **react-flow-renderer**: For rendering the network topology graph in the frontend.
 
 ## Installation
 
